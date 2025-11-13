@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_08
 pets <- data.frame(
   Name = c("Flipper", "Bromley", "Nox", "Orion", "Dagger", "Zizi", "Carrie"),
@@ -36,3 +36,4 @@ boxplot(Weight ~ Breed, data = pets,
         main = "Weight Distribution by Breed",
         xlab = "Breed", ylab = "Weight",
         col = c("black", "pink"))
+
