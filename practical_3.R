@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_03
 # a) Check what sample() function does
 ?sample  
@@ -33,3 +33,4 @@ subset(mtcars, mpg > 25)
 # h) Use of ifelse()
 age <- c(10, 20, 70)
 ifelse(age < 18, "Minor", ifelse(age >= 65, "Senior", "Adult"))
+
