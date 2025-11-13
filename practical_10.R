@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_10
 before <- c(80, 75, 90, 85, 95, 100, 70, 65, 88, 92)
 after  <- c(78, 73, 86, 82, 91, 97, 69, 64, 85, 89)
@@ -12,3 +12,4 @@ t_value
 
 t_test_result <- t.test(before, after, paired = TRUE, alternative = "greater")
 print(t_test_result)
+
