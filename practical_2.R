@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_02
 #a. Create the vector
 monster <- c(TRUE, TRUE, TRUE, FALSE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE)
@@ -27,3 +27,4 @@ coerce.check <- c(atk, monster)
 typeof(coerce.check)
 class(coerce.check)
 print(coerce.check)
+
