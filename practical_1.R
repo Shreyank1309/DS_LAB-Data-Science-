@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_01
 x <- 10:20
 y <- x + 2
@@ -36,3 +36,4 @@ quotes <- c("Data is the new oil",
 
 contains_data <- grepl("data", quotes, ignore.case = TRUE)
 print(contains_data)
+
