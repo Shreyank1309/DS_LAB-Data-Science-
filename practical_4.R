@@ -1,4 +1,4 @@
-#Soumya_Shivankar_1177
+#Shreyank_Agrawal_22070521168
 #Practical_04
 install.packages("mlbench")
 install.packages("caret")
@@ -67,4 +67,5 @@ knn_acc <- mean(knn_pred == test$Species)
 # Print results
 print(paste("Random Forest Accuracy:", round(rf_acc, 2)))
 print(paste("SVM Accuracy:", round(svm_acc, 2)))
+
 print(paste("KNN Accuracy:", round(knn_acc, 2)))_
