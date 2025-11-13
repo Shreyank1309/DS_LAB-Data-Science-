@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_09
 #a) Load libraries
 install.packages("readr")
@@ -46,3 +46,4 @@ summary(model)$r.squared
 
 # k) regression equation
 coef(model) 
+
