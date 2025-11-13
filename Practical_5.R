@@ -1,4 +1,4 @@
-#Soumya_Shivankar_22070521177
+#Shreyank_Agrawal_22070521168
 #Practical_05
 #Pictured below is a matrix. Recreate this matrix in at least three different ways.
 #Player Piece
@@ -83,6 +83,7 @@ m4
 #Adding a new row
 m4 <- rbind(m4, c("dark","rook"))
 m4
+
 
 
 
